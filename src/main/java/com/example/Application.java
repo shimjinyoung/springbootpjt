@@ -12,6 +12,7 @@ public class Application {
         applicationContext = SpringApplication.run(Application.class, args);
         System.out.println("dddd");
         System.out.println("aaaaaa");
+        System.out.println("cccccc");
     }
 
 
